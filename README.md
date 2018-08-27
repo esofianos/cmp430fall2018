@@ -5,7 +5,7 @@ Introduction
 ------------
 
 Each of the samples in this repository is associated with a practical exercise
-from the Android Developer Fundamentals course. While each sample stands and
+from the course. While each sample stands and
 runs on its own, they are designed to be used together with the course.
 
 The Android Developer Fundamentals course is an instructor-led training
