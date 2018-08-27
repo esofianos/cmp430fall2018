@@ -1,0 +1,70 @@
+CMP 430 Android Mobile Application Development
+Syllabus Fall 2018
+
+
+Instructor: 	Eva Sofianos	
+Email: 	esofianos@gmail.com
+Office Location: 	Gillet 304	
+Office Hours: 	Tuesday 1:30pm-4pm
+Tuesday & Thursday 7:45pm-8pm
+
+PREREQUISITE COURSE
+CMP 338 with a B- or higher.
+
+
+LEARNING OBJECTIVES
+Learn the essentials of Android mobile application development.
+Learn the Android application lifecycle. 
+Learn how to create user interfaces, activities and handle events.
+Learn how to pass data between activities.
+Learn how to use themes, layouts and styles.
+Learn how to work with menus, tabs, preferences, and settings.
+Learn how to work with threads and files on Android mobile devices.
+Learn how to use intents, services, notifications, alarms, and broadcast receivers.
+Learn how to store data using SQLite database
+Learn how to work with Content Providers (If time permits)
+
+
+REQUIRED RESOURCES:
+Link to Shared Drive bit.ly/spring2018cmp464shared
+Access to a computer with 9 GB RAM recommended, 3 GB RAM minimum
+IDE Android Studio installed on the computer
+System Requirements to support Android Studio and Emulator Read Here
+Slack Channel: Join CMP430 Slack Here
+Link to GitHub Starter code for some of the apps
+Android Developer Fundamentals - Concepts
+Android Developer Fundamentals - Practicals
+https://developer.android.com/guide
+YouTube Videos: https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB
+
+
+GRADING POLICY
+Students will be assessed via their quizzes, final exams, individual mini projects and team projects. Understanding of concepts will be evaluated on the quizzes and final exams using a percentage based approach. 
+
+Mini Projects:  30%
+Final Project:  20%
+Quizzes:  20%
+Final Exam: 20%
+PPP: 10% Participation, Preparedness, Professionalism 
+
+The individual mini projects and team projects, will be evaluated using a step based approach where students will earn one of three grades (A, B, C). 
+A: Meets all requirements and is fully runnable without bugs when tested on multiple devices
+B: Has some bugs and runs on at least one device type
+C: Conceptually correct and meets the theoretical requirements, but has bugs that cause it to crash
+
+An application that is minimally below the described steps will receive an A-, B-, C- respectively. 
+One that follows best practices and has additional features will earn A+, B+, C+. 
+
+Furthermore, the quantity and quality of contribution to the team project and presentation, as well as timeliness, and professionalism will be graded on the (A, B, C) basis with A being excellent, B being satisfactory, and C being below average.
+
+Any work submitted after the due date will be subject to a 20% late penalty.  No work will be accepted more than 1 week beyond the due date.  NO MAKEUP exams will be given.  
+
+
+ACCOMMODATING DISABILITIES:
+Lehman College is committed to providing access to all programs and curricula to all students. Students with disabilities who may require accommodations are encouraged to register with the Office of Student Disability Services located in Shuster Hall, Room 238. Telephone number is 718-960-8441.
+
+ACADEMIC INTEGRITY:
+Student collaboration is encouraged in design and implementation of programs.
+All submitted work must be unique and contributors identified.
+http://www.lehman.edu/lehman/about/policies_pdf/CUNYAcademicIntegrityPolicy.pdf
+
